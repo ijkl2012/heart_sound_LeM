@@ -5,4 +5,8 @@ evaluate_test.py: Loads the test set and multiple pre-trained fold models, perfo
 metrics.py: Utility functions for common classification metrics and confusion matrix, enabling unified evaluation of predictions.
 vis_ig.py: Integrated Gradients (IG) interpretability analysis, with segmented coloring to visualize regions the model focuses on.
 train_val_splits.csv and test.csv: Fixed data split lists (IDs for training/validation/test samples).
-1~5..h5: 5-fold model
+1~5..h5: 5-fold model  
+Due to file size limitations, the model files are stored at the following location:
+link：https://pan.quark.cn/s/c54766f5a89b
+code：virj
+
